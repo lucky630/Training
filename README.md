@@ -12,3 +12,5 @@ These are the training session notebook involving packages
 4. Sklearn
 
 5. Git
+
+6. 
