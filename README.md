@@ -10,3 +10,5 @@ These are the training session notebook involving packages
 3. Pandas
 
 4. Sklearn
+
+5. Git
